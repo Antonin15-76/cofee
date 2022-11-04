@@ -1,0 +1,23 @@
+{
+    "name": "ecuries-f1",
+    "short_name": "EF1",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#db4938",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+          "src": "/assets/icon/f1-icon.png",
+          "type": "image/png", "sizes": "72x72"
+        },
+        {
+          "src": "/assets/icon/f1-icon.png",
+          "type": "image/png", "sizes": "96x96"
+        },
+        {
+          "src": "/images/icon/f1-icon.png",
+          "type": "image/png","sizes": "128x128"
+        }
+      ]
+  }
